@@ -1,0 +1,134 @@
+.cardsize 
+{
+    margin: 15px 15px ;
+}
+.mycard
+{
+
+    
+    border-radius: 5px;
+    box-shadow: 0px 15px 50px rgba(67, 76, 109, 0.08);
+}
+.cardstyle
+{
+
+    
+ display: flex;
+ flex-direction: row;
+ width: 100%;
+padding: 0 1rem;
+font-size: 10px;
+color: #818181;
+line-height: 16px;
+font-weight: bold;
+
+}
+.title{
+    font-family: Noto Sans;
+font-style: normal;
+font-weight: bold;
+font-size: 15px;
+line-height: 16px;
+font-family: 'Noto Sans', sans-serif;
+padding:  1rem;
+}
+
+
+.container-2 {
+    display: flex;
+   align-items: flex-start;
+   flex-direction: column;
+   
+}
+.container-2 div
+{
+   
+    width: 100%;
+    padding: 0 1rem;
+    font-size: 16px;
+    color: #1227e7;  
+    font-family: Noto Sans;
+ font-style: normal;
+ font-weight: bold;
+ line-height: 25px;
+}
+.box-3{
+    flex-grow: 3;
+        }
+    
+    
+    .box-4{
+        flex-grow: 1;    
+    }
+
+
+.prise
+{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+   padding: 0 1rem;
+   font-size: 16px;
+   color: #1227e7;  
+   font-family: Noto Sans;
+font-style: normal;
+font-weight: bold;
+line-height: 25px;
+}
+.prisesel
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+   padding: 0 1rem;
+   font-size: 16px;
+   color: #1227e7;  
+   font-family: Noto Sans;
+font-style: normal;
+font-weight: bold;
+line-height: 25px;
+}
+
+.container-1 {
+    display: flex;
+   align-items: flex-start;
+   
+}
+.container-1 div
+{
+   
+ width: 100%;
+padding: 0 1rem;
+font-size: 10px;
+color: #818181;
+line-height: 16px;
+font-weight: bold;
+}
+.box-1{
+    flex: 1;
+        }
+    
+    
+    .box-2{
+        flex: 1;      
+    }
+
+
+
+
+.bblock {
+    display: flex;
+    flex-direction: left; 
+    font-size: 11px;
+line-height: 16px;
+  
+    background: dodgerblue;
+    color: white;
+    
+    margin-right: 5px;
+    text-align: center; /*Центрируем текст по горизонтали*/
+}
+.sttxt
+{
+    font-family: 'Noto Sans', sans-serif;
+}
